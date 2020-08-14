@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
 
-  "script": {
+  "scripts": {
     "dev": "gatsby develop -p 9988 -o"
   },
 
