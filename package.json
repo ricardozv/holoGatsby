@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+
+  "script": {
+    "dev": "gatsby develop -p 9988 -o"
+  },
+
   "dependencies": {
     "gatsby": "^2.24.47",
     "react": "^16.13.1",
